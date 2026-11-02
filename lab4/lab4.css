@@ -1,0 +1,19 @@
+body {
+ text-align: center;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-left: 5px;
+}
+
+div {
+  margin-top: 10px;
+}
+
+span {
+  margin-right: 10px;
+}
